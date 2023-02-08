@@ -1,0 +1,7 @@
+run spark in InteliJ Idea 
+we need to add spark core Dependency
+
+search on google Spark core Dependency and choose your jar accordingly
+
+
+https://mvnrepository.com/artifact/org.apache.spark/spark-core
